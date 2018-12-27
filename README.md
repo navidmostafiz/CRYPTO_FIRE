@@ -1,4 +1,7 @@
-![JENKINS_FIRE](https://github.com/navidmostafiz/CRYPTO_FIRE/blob/master/icon_128.png "JENKINS FIRE LOGO") 
+<p align="center">
+  <img width="128" height="128" alt="JENKINS FIRE LOGO" src="https://github.com/navidmostafiz/CRYPTO_FIRE/blob/master/icon_128.png">
+</p>
+
 ### CRYPTO_FIRE - CHROME_EXTENSION
 Google Chrome Extension for Cyrptocurrency Price Tracker in Multiple Currencies
 
